@@ -24,3 +24,9 @@ Link: https://docs.wagtail.org/en/stable/getting_started/index.html
 
 Objective: Study Wagtail E-Commerce Documentation
 Link: https://medium.com/free-code-camp/how-to-build-an-e-commerce-shop-with-python-django-wagtail-3dd2043f89e7
+
+------
+
+2:00 PM
+
+Objective: Take break
