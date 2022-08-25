@@ -10,3 +10,10 @@ Link: https://wagtail.org/packages/
 
 Objective: Begin Wagtail E-Commerce Template Repo Build
 Link: https://github.com/wagtail/wagtail
+
+------
+
+12:00 PM
+
+Objective: Read through Wagtail Documentation
+Link: https://docs.wagtail.org/en/stable/getting_started/index.html
