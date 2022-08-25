@@ -1,0 +1,5 @@
+Date: 08/25/2022
+
+10:00 AM
+Objective: Research Wagtail Django E-Commerce Packages
+Link: https://wagtail.org/packages/
