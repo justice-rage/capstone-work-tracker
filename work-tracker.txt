@@ -17,3 +17,10 @@ Link: https://github.com/wagtail/wagtail
 
 Objective: Read through Wagtail Documentation
 Link: https://docs.wagtail.org/en/stable/getting_started/index.html
+
+------
+
+1:00 PM
+
+Objective: Study Wagtail E-Commerce Documentation
+Link: https://medium.com/free-code-camp/how-to-build-an-e-commerce-shop-with-python-django-wagtail-3dd2043f89e7
