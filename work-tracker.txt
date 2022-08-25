@@ -3,3 +3,10 @@ Date: 08/25/2022
 10:00 AM
 Objective: Research Wagtail Django E-Commerce Packages
 Link: https://wagtail.org/packages/
+
+------
+
+11:00 AM
+
+Objective: Begin Wagtail E-Commerce Template Repo Build
+Link: https://github.com/wagtail/wagtail
