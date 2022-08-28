@@ -1,4 +1,5 @@
 Date: 08/25/2022
+Cumulative Hours: 4
 
 10:00 AM
 Objective: Research Wagtail Django E-Commerce Packages

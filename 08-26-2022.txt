@@ -1,4 +1,5 @@
 Date: 08/26/2022
+Cumulative Hours: 6
 
 11:00 AM
 Objective: Migrate Adjacent Educational Wagtail CRX Project to PostgreSQL
