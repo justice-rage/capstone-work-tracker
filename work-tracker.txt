@@ -1,32 +1,12 @@
-Date: 08/25/2022
+Dates of Capstone Work Performed
 
-10:00 AM
-Objective: Research Wagtail Django E-Commerce Packages
-Link: https://wagtail.org/packages/
+React with Redux Capstone Work Session
 
-------
+1. 08-25-2022
+    Hours: 4
+2. 08-26-2022
+    Hours: 6
 
-11:00 AM
-
-Objective: Begin Wagtail E-Commerce Template Repo Build
-Link: https://github.com/wagtail/wagtail
+Cumulative Hours: 10
 
 ------
-
-12:00 PM
-
-Objective: Read through Wagtail Documentation
-Link: https://docs.wagtail.org/en/stable/getting_started/index.html
-
-------
-
-1:00 PM
-
-Objective: Study Wagtail E-Commerce Documentation
-Link: https://medium.com/free-code-camp/how-to-build-an-e-commerce-shop-with-python-django-wagtail-3dd2043f89e7
-
-------
-
-2:00 PM
-
-Objective: Take break

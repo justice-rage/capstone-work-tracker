@@ -1,0 +1,57 @@
+Date: 08/26/2022
+
+11:00 AM
+Objective: Migrate Adjacent Educational Wagtail CRX Project to PostgreSQL
+Link: https://wagtail.org/packages/
+Link 2: https://sweetcode.io/django-postgresql-migration-from-sqlite/
+Link 3: https://medium.com/djangotube/django-sqlite-to-postgresql-database-migration-e3c1f76711e1
+
+------
+
+12:00 PM
+Objective: Migrate Adjacent Educational Wagtail CRX Project to PostgreSQL
+Link 1: https://wagtail.org/packages/
+Link 2: https://sweetcode.io/django-postgresql-migration-from-sqlite/
+Link 3: https://medium.com/djangotube/django-sqlite-to-postgresql-database-migration-e3c1f76711e1
+
+------
+
+1:00 PM
+
+Objective: Research creating Wagtail CRX Project with PostgreSQL instead of Default SQLite
+Link 1: https://github.com/wagtail/wagtail
+Link 2: https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8
+Link 3: https://www.enterprisedb.com/postgres-tutorials/how-use-postgresql-django
+
+------
+
+2:00 PM
+
+Objective: Recreate Adjacent Educational Wagtail CRX Project with PostgreSQL instead of Default SQLite
+Link 1: https://docs.coderedcorp.com/wagtail-crx/getting_started/install.html
+Link 2: https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8
+Link 3: https://www.enterprisedb.com/postgres-tutorials/how-use-postgresql-django
+
+------
+
+3:00 PM
+
+Objective: Write "HOW TO START WAGTAIL CRX PROJECT WITH A POSTGRESQL DATABASE - Avoid SQLite to PostgreSQL Database Migration" Tutorial
+Link 1: https://docs.coderedcorp.com/wagtail-crx/getting_started/install.html
+Link 2: https://www.notion.so/Creating-Wagtail-CRX-Project-with-PostgreSQL-986231a8055840a59954ec198d74318d
+Link 3: https://www.enterprisedb.com/postgres-tutorials/how-use-postgresql-django
+
+------
+
+4:00 PM
+
+Objective: Write "HOW TO START WAGTAIL CRX PROJECT WITH A POSTGRESQL DATABASE - Avoid SQLite to PostgreSQL Database Migration" Tutorial
+Link 1: https://docs.coderedcorp.com/wagtail-crx/
+Link 2: https://www.notion.so/Creating-Wagtail-CRX-Project-with-PostgreSQL-986231a8055840a59954ec198d74318d
+Link 3: https://www.enterprisedb.com/postgres-tutorials/how-use-postgresql-django
+
+------
+
+5:00 PM
+
+Objective: End Day
