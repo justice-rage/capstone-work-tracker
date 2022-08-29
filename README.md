@@ -4,7 +4,7 @@
 ## Summary
 This repository is for my Epicodus capstone project that is being built out for an actual client.
 ## Project Overview
-An E-Commerce website built to allow a client to sell their products direct to consumer online utilizing the Django Webframework with an extended goal of utilizing the backend as a headless CMS if the MVP features are successfully met.
+An E-Commerce website built to allow a client to sell their products direct to consumer online utilizing the Django Web framework with an extended goal of utilizing the backend as a headless CMS if the MVP features are successfully met.
 ### Research & Planning Log
 #### Thursday, 08/25
 - Cumulative Hours: 4

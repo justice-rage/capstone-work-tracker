@@ -8,7 +8,6 @@ Create website where business can sell products direct to consumers online.
 1. List all available products and make them purchaseable.
 2. Have an admin dashboard setup with user permissions and authorization. 
 3. Information/detail page for the company as well as products.
-An application built in React that tracks inventory for an imaginary local tea shop.
 
 ### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 - Python
